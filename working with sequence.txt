@@ -1,0 +1,19 @@
+>sp|P08067.1|UCRI_YEAST RecName: Full=Cytochrome b-c1 complex subunit Rieske, mitochondrial; AltName: Full=Complex III subunit 5; AltName: Full=Rieske iron-sulfur protein; Short=RISP; AltName: Full=Ubiquinol-cytochrome c oxidoreductase iron-sulfur subunit; Flags: Precursor
+MLGIRSSVKTCFKPMSLTSKRLISQSLLASKSTYRTPNFDDVLKENNDADKGRSYAYFMVGAMGLLSSAG
+AKSTVETFISSMTATADVLAMAKVEVNLAAIPLGKNVVVKWQGKPVFIRHRTPHEIQEANSVDMSALKDP
+QTDADRVKDPQWLIMLGICTHLGCVPIGEAGDFGGWFCPCHGSHYDISGRIRKGPAPLNLEIPAYEFDGD
+KVIVG
+>sp|P20788.2|UCRI_RAT RecName: Full=Cytochrome b-c1 complex subunit Rieske, mitochondrial; AltName: Full=Complex III subunit 5; AltName: Full=Cytochrome b-c1 complex subunit 5; AltName: Full=Liver regeneration-related protein LRRGT00195; AltName: Full=Rieske iron-sulfur protein; Short=RISP; AltName: Full=Rieske protein UQCRFS1; AltName: Full=Ubiquinol-cytochrome c reductase iron-sulfur subunit; Contains: RecName: Full=Cytochrome b-c1 complex subunit 9; Short=Su9; Short=Subunit 9; AltName: Full=8 kDa subunit 9; AltName: Full=Complex III subunit IX; AltName: Full=Cytochrome b-c1 complex subunit 11; AltName: Full=UQCRFS1 mitochondrial targeting sequence; Short=UQCRFS1 MTS; AltName: Full=Ubiquinol-cytochrome c reductase 8 kDa protein; Flags: Precursor
+MLSVAARSGPFAPVLSATSRGVAGALRPLLQSAVPATSEPPVLDVKRPFLCRESLSGQAATRPLVATVGL
+NVPASVRYSHTDIKVPDFSDYRRAEVLDSTKSSKESSEARKGFSYLVTATTTVGVAYAAKNAVSQFVSSM
+SASADVLAMSKIEIKLSDIPEGKNMAFKWRGKPLFVRHRTKKEIDQEAAVEVSQLRDPQHDLERVKKPEW
+VILIGVCTHLGCVPIANAGDFGGYYCPCHGSHYDASGRIRKGPAPLNLEVPTYEFTSGDVVVVG
+>AAD55565.1 rieske iron-sulfur protein precursor [Volvox carteri f. nagariensis]
+MAMITSRRAAAPCKAQATRRSRVMSVVRAAAVSSEVPDMNKRNIMNLILLGGASLPVGSLALGYGAFFVP
+PSSGGGSGGQAAKDALGNDIKANAWLATHQKGDRSLSQGLKGDPTYLIVTADGTIEKYGLNAVCTHLGCV
+VPWVAAENKFKCPCHGSQYNAEGKVVRGPAPLSLALAHCDVQEDGLVTFSTWSETDFRTGLEPWWA
+>sp|P08980.2|UCRIA_SPIOL RecName: Full=Cytochrome b6-f complex iron-sulfur subunit, chloroplastic; AltName: Full=Plastohydroquinone:plastocyanin oxidoreductase iron-sulfur protein; AltName: Full=Rieske iron-sulfur protein; Short=ISP; Short=RISP; Flags: Precursor
+MASFTLSSATPSQLCSSKNGMFAPSLALAKAGRVNVLISKERIRGMKLTCQATSIPADNVPDMQKRETLN
+LLLLGALSLPTGYMLLPYASFFVPPGGGAGTGGTIAKDALGNDVIAAEWLKTHAPGDRTLTQGLKGDPTY
+LVVESDKTLATFGINAVCTHLGCVVPFNAAENKFICPCHGSQYNNQGRVVRGPAPLSLALAHCDVDDGKV
+VFVPWTETDFRTGEAPWWSA
